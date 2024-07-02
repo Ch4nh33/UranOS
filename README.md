@@ -20,14 +20,14 @@
 # Command line 
 ### dir
 - Showing all directory
-- In Linux, instead **ls -al** command
+- In Linux, instead ls -al command
 
 ### mem
 - Displays the current memory state in OS
 
 ### cls
 - clear screen
-- In Linux, ****instead **clear** command
+- In Linux, instead **clear** command
 ### start
 - start api modules
 - In Linux, same of **execute directory**
