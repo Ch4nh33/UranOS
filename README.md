@@ -1,6 +1,7 @@
 # UranOS
 - Develop Operating System for x86 Architecture
-- But, this OS is Based on Kawai Hidemi's "HariboteOS" then Customizing in this OS
+- But, this OS is Based on Kawai Hidemi's "HariboteOS"
+- then Customizing in this HariboteOS
 - So You may also see a little bit of Japanese
   
 # Operating System based on x86
