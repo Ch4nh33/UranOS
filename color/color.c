@@ -16,6 +16,6 @@ void HariMain(void)
 		}
 	}
 	api_refreshwin(win, 8, 28, 136, 156);
-	api_getkey(1); /* 키 입력을 기다린다 */
+	api_getkey(1);
 	api_end();
 }
