@@ -38,8 +38,13 @@
 ## API List in UranOS
 
 ### gview
-- Can see the Graphic file → png, jpg, bmp, etc..
-''' gview (file name.extention name(png, jpg...)) '''
+- Can see the Graphic file → png, jpg, bmp, etc..<br>
+<pre>
+<code>
+gview (file name.extention name(png, jpg...)
+</code>
+</pre>
+
 
 
 # License
