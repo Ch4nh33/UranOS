@@ -17,7 +17,23 @@
 # UranOS Screen
 ![git_readme_img001](https://github.com/Ch4nh33/UranOS/assets/78791504/ffca717c-5069-45b3-bfc1-f0203c31aea5)
 
+# Command line 
+### dir
+- Showing all directory
+- In Linux, instead **ls -al** command
 
+### mem
+- Displays the current memory state in OS
+
+### cls
+- clear screen
+- In Linux, ****instead **clear** command
+### start
+- start api modules
+- In Linux, same of **execute directory**
+### exit
+- exit process
+- In Linux, same of **ctrl+c or quit** command
 
 # License
 - UranOS is open source, free software
