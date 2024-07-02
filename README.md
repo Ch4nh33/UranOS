@@ -45,7 +45,38 @@ gview (file name.extention name(png, jpg...)
 </code>
 </pre>
 
+### tview
+- Can see the text file
+<pre>
+<code>
+tview (file name.txt) -w(weight) -h(height)
+</code>
+</pre>
 
+### bball
+- That means beautiful ball
+- Drawing a ball with a line
+
+### Invader
+- You can play the Galag game
+- Arrow to move, Attack is space key
+
+### mmlplay.daigo.mml
+- Mml player in UranOS
+
+### Lines
+- Showing lines in new  window
+
+### Sosu
+- It represents prime numbers from 1 to 100
+
+## The Other API is just test API 
+- If you loading The other API, You can start command console
+<pre>
+<code>
+start (API names...)
+</code>
+</pre>
 
 # License
 - UranOS is open source, free software
