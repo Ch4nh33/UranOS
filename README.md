@@ -3,7 +3,7 @@ Develop Operating System for x86 Architecture
 - But, this OS is Based on Kawai Hidemi's "HariboteOS"
 - So You may also see a little bit of Japanese
   
-#Operating System based on x86
+# Operating System based on x86
 - 32bit to train the concept of Operating System
     - Portable microkernel-based multiserver OS designed from Assembly and C language
 - The UranOS developed by Chan hee Yi (Republic of Korea)
