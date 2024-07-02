@@ -35,6 +35,13 @@
 - exit process
 - In Linux, same of **ctrl+c or quit** command
 
+## API List in UranOS
+
+### gview
+- Can see the Graphic file → png, jpg, bmp, etc..
+''' gview (file name.extention name(png, jpg...)) '''
+
+
 # License
 - UranOS is open source, free software
 - Its source code is available under the BSD
