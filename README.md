@@ -14,7 +14,8 @@
 - Here is the list of each folder and some description about them.
 
 # Initial Screen 
-(https://github.com/Ch4nh33/UranOS/assets/78791504/ffca717c-5069-45b3-bfc1-f0203c31aea5)
+![git_readme_img001](https://github.com/Ch4nh33/UranOS/assets/78791504/ffca717c-5069-45b3-bfc1-f0203c31aea5)
+
 
 # License
 - UranOS is open source, free software
